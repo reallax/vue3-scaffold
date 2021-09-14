@@ -1,9 +1,0 @@
-.idea
-*.iws
-*.iml
-*.ipr
-
-node_modules
-.DS_Store
-dist-ssr
-*.local
