@@ -7,6 +7,9 @@ cd ..
 
 # 3. init project from vite(npm 7)
 npm init vite@latest vue3-scaffold -- --template vue
+// 敲黑板：用上面这个语境创建的项目，依赖的是vue2
+// 修正：yarn remove vue; yarn add vue@next, 检查package.json
+// mait.ts报错：模块 ""vue"" 没有导出的成员 "createApp"
 
 # 4. build and run
 cd vue3-scaffold
