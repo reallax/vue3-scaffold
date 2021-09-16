@@ -15,7 +15,7 @@ https://nodejs.org/en/download/
 
 ## 2.2 install yarn
 * mac:  
-brew install yarn
+brew install yarn  
 yarn -v  
 * windows:  
 ..omit..  

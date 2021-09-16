@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <p>Hello {{ name }}</p>
   <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
 
@@ -15,6 +16,7 @@ export default defineComponent({
   },
   data() {
     return {
+      name: 'reallx'
     }
   },
 })

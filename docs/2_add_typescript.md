@@ -11,7 +11,7 @@ yarn add --dev typescript webpack webpack-cli ts-loader css-loader vue vue-loade
 tsc --init
 // generate tsconfig.json file for tsc command options
 
-# 4. and src/shims-vue.d.ts
+# 4. add src/shims-vue.d.ts
 ? why ?
 
 # 5. modify index.html
