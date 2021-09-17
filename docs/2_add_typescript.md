@@ -1,5 +1,6 @@
 # 1. reference
-https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter
+https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter  
+https://www.runoob.com/typescript/ts-install.html  
 
 # 2. add typescript
 // npm install --save-dev typescript webpack webpack-cli ts-loader css-loader vue vue-loader vue-template-compiler
@@ -9,10 +10,12 @@ yarn add --dev typescript webpack webpack-cli ts-loader css-loader vue vue-loade
 
 # 3. add tsconfig.json
 tsc --init
-// generate tsconfig.json file for tsc command options
+// generate tsconfig.json file for tsc command options  
+// https://zhuanlan.zhihu.com/p/145210784  
 
 # 4. add src/shims-vue.d.ts
-? why ?
+? why ?  
+https://juejin.cn/post/6844903882309500942  
 
 # 5. modify index.html
 * modify before:  

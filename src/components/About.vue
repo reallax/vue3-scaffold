@@ -3,7 +3,7 @@
     alt="Vue logo"
     src="../assets/logo.png"
   />
-  <h1>{{ msg }}</h1>
+  <h1>go ahead: {{ msg }}</h1>
 </template>
 
 <script lang="ts">

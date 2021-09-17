@@ -28,4 +28,8 @@ npm install -g typescript
 check: tsc -v
 
 # 4. power of package.json
-http://nodejs.cn/learn/the-package-json-guide
+http://nodejs.cn/learn/the-package-json-guide  
+
+
+# Reference: 
+https://segmentfault.com/a/1190000039157357
